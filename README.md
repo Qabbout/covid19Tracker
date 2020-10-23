@@ -4,14 +4,13 @@ A Covid19 World Record Tracker
 
 ## Description
 
-<hr>
+
 Covid19 is Cross-Platform tracker, all data are from: https://ncov2019-admin.firebaseapp.com
 
 <img src="assets/sc/sc.png" alt="iphone 11"  width="200">
 
 ## Getting Started
 
-<hr>
 To test the app make sure to sign up, create a file called `api_keys.dart` in `lib/app/services` and add the following:
 
 ```dart
